@@ -1,0 +1,18 @@
+.container{
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 40px;
+    width: 600px;
+    height: 200px;
+    border: none;
+    border-radius: 20px;
+}
+
+p{
+    margin-top: 41px;
+    display: flex;
+    justify-content: center;
+    gap: 340px;
+}
